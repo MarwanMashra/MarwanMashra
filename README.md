@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ar_AE" data-type="vertical" data-theme="dark" data-vanity="marwanmashra"><a class="LI-simple-link" href='https://fr.linkedin.com/in/marwanmashra?trk=profile-badge'>Marwan Mashra</a></div>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 **Languages and Tools:**  
