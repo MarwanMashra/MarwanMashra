@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ar_AE" data-type="vertical" data-theme="dark" data-vanity="marwanmashra"><a class="LI-simple-link" href='https://fr.linkedin.com/in/marwanmashra?trk=profile-badge'>Marwan Mashra</a></div>
-
+<!-- <img height="30" src="https://www.google.com/search?q=linkedin&rlz=1C1CHBF_frFR890FR890&sxsrf=ALeKk00knY-duE1ffzdgJp9mpgtEJH6wdw:1623619114021&tbm=isch&source=iu&ictx=1&fir=7eMzkkSuxfNeLM%252C0U8aBg_S098WRM%252C%252Fm%252F0w03805&vet=1&usg=AI4_-kQHcTEI7QkA5GOC03v5860iddF4YQ&sa=X&ved=2ahUKEwjNoarExJXxAhUKrqQKHUPlBDwQ_B16BAguEAI&biw=1536&bih=750#imgrc=-d3h94B922FCNM"> -->
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marwanmashra/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 **Languages and Tools:**  
