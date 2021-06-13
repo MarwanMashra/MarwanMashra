@@ -8,6 +8,9 @@
 <a href="https://www.facebook.com/marwan.mushara">
   <img align="right" alt="Anurag's Discord" width="21px" src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png" />
 </a>
+<a href="https://www.facebook.com/marwan.mushara">
+  <img align="right" alt="Anurag's Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" />
+</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
