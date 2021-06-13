@@ -12,7 +12,7 @@
   <img align="right" alt="Anurag's Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" />
 </a>
 <a href="https://discordapp.com/users/xxxx/493446091811979267">
-  <img align="right" alt="Anurag's Discord" width="21px" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png" />
+  <img align="right" alt="Anurag's Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
