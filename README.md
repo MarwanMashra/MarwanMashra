@@ -14,7 +14,7 @@
 </a>
 &nbsp;&nbsp;
 <a style="margin-left:20px" href="https://discordapp.com/users/493446091811979267">
-  <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" />
+  <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://ibb.co/HgCWpHK" />
 </a>
 &nbsp;&nbsp;
  <img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
