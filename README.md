@@ -17,7 +17,7 @@
   <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
 </a>
 &nbsp;&nbsp;
- <img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
+<img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
 
 **Languages and Tools:**  
 
