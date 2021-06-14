@@ -1,4 +1,4 @@
-### socials medias 👋
+### Socials medias 👋
 
 <img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
