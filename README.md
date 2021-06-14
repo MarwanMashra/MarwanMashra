@@ -100,7 +100,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://3wa.fr/wp-content/uploads/2020/04/keras-300x300.png" width="48" height="48" alt="RHEL" />
+        <img src="https://camo.githubusercontent.com/c1ac3ae26b8e596bd6ec38ea0537b2cd37ef50b0281df5d409b49c777375db20/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61652f4b657261735f6c6f676f2e7376672f32343070782d4b657261735f6c6f676f2e7376672e706e67" width="48" height="48" alt="RHEL" />
       </a>
       <br>Keras
     </td>
