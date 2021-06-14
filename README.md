@@ -2,10 +2,10 @@
 
 <!-- <img height="30" src="https://www.google.com/search?q=linkedin&rlz=1C1CHBF_frFR890FR890&sxsrf=ALeKk00knY-duE1ffzdgJp9mpgtEJH6wdw:1623619114021&tbm=isch&source=iu&ictx=1&fir=7eMzkkSuxfNeLM%252C0U8aBg_S098WRM%252C%252Fm%252F0w03805&vet=1&usg=AI4_-kQHcTEI7QkA5GOC03v5860iddF4YQ&sa=X&ved=2ahUKEwjNoarExJXxAhUKrqQKHUPlBDwQ_B16BAguEAI&biw=1536&bih=750#imgrc=-d3h94B922FCNM"> -->
 
-<a href="https://www.linkedin.com/in/marwanmashra/">
+<a style="margin-left:5px"  href="https://www.linkedin.com/in/marwanmashra/">
   <img style="margin-left:5px" alt="Marwan MASHRA | LinkedIn" width="21px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />
 </a>
-<a href="https://www.facebook.com/marwan.mushara">
+<a style="margin-left:5px"  href="https://www.facebook.com/marwan.mushara">
   <img style="margin-left:5px" alt="Anurag's Discord" width="21px" src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png" />
 </a>
 <a href="https://www.instagram.com/marwanmushara/">
