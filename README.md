@@ -18,7 +18,7 @@
 </a>
 &nbsp;&nbsp;
 
-<br/><br/>
+<br/>
 
 **Languages and Tools:**  
 
