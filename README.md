@@ -4,16 +4,19 @@
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
   <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />
 </a>
+&nbsp;&nbsp;
 <a style="margin-left:20px"  href="https://www.facebook.com/marwan.mushara">
   <img alt="Anurag's Discord" width="25px" src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png" />
 </a>
+&nbsp;&nbsp;
 <a style="margin-left:20px" href="https://www.instagram.com/marwanmushara/">
   <img alt="Anurag's Discord" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" />
 </a>
+&nbsp;&nbsp;
 <a style="margin-left:20px" href="https://discordapp.com/users/493446091811979267">
   <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" />
 </a>
-
+&nbsp;&nbsp;
  <img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
 
 **Languages and Tools:**  
