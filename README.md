@@ -15,9 +15,7 @@
   <img align="right" alt="Anurag's Discord" width="25px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" />
 </a>
 
-<a href="https://www.instagram.com/marwanmushara/">
-  <img align="right" alt="Anurag's Discord" width="21px" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
-</a>
+ <img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
