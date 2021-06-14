@@ -143,7 +143,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg" width="400px">
+  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg" width="600px">
 </p>
 <!--
 **MarwanMashra/MarwanMashra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
