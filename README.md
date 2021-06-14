@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
   <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />
 </a>
@@ -17,7 +17,7 @@
   <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
 </a>
 &nbsp;&nbsp;
-<img align="right" alt="Anurag's Discord" src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
+
 
 **Languages and Tools:**  
 
