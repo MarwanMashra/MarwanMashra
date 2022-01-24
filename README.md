@@ -19,7 +19,7 @@
       <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <p> <h3> Also check out my website : </h3><a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
+    <p> <h3 style="float:right"> Also check out my website : </h3><a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
     ### Languages and Tools:
    </div>
 </div>
