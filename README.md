@@ -1,6 +1,8 @@
-
 ### Welcome to my profile &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<span align="right" style="float: right">
+  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="200px">
+</span>
 
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
   <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -14,6 +16,7 @@
   <img alt="Anurag's Discord" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 <a style="margin-left:20px" href="https://discordapp.com/users/493446091811979267">
   <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
 </a>
@@ -21,10 +24,8 @@
 
 ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a>
 
-<img align="right" style="float:right;position:absolute,top:0px" src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="200px">
-
-
 ### Languages and Tools:
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -143,7 +144,6 @@
 <br/>
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img height="180px" src="https://github-readme-stats.vercel.app/api/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
 <p align="center">
   <img src="https://media3.giphy.com/media/Srugs90R2wYS0zvvKt/giphy.gif?cid=ecf05e47h9mnw7m0j4qjy2rrzpmt3dxxoqqebb00megzm8gi&rid=giphy.gif" width="500px">
