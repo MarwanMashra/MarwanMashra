@@ -19,6 +19,7 @@
     <a style="margin-left:20px" href="https://discordapp.com/users/493446091811979267">
       <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
     </a>
+    
     &nbsp;&nbsp;&nbsp;&nbsp;
 
     ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a>
