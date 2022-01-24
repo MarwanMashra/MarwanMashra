@@ -141,8 +141,6 @@
 
 <br/>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img height="180px" src="https://github-readme-stats.vercel.app/api/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
 <p align="center">
   <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg" width="500px">
