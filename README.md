@@ -3,7 +3,7 @@
 
 
 <span align="right">
-  <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="500px">
+  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="500px">
 </span>
 
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
