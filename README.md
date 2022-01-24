@@ -20,9 +20,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<span align="right">
+<p align="right">
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="200px">
-</span>
+</p>
 
 <br/>
 
