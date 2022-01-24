@@ -144,8 +144,10 @@
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img height="180px" src="https://github-readme-stats.vercel.app/api/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <p align="center">
-  <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="500px">
+  <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="500px">
 </p>
+
+
 <!--
 **MarwanMashra/MarwanMashra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
