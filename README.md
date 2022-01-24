@@ -17,7 +17,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
     
-### Also check out my website : </h3><a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
+### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
 
 ### Languages and Tools:
 
