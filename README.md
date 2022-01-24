@@ -17,12 +17,9 @@
   <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<p align="center">
-  <img src="https://media3.giphy.com/media/Srugs90R2wYS0zvvKt/giphy.gif?cid=ecf05e47h9mnw7m0j4qjy2rrzpmt3dxxoqqebb00megzm8gi&rid=giphy.gif" width="300px">
-</p>
-<!-- <span align="right" style="float: right">
+<span align="right" style="float: right">
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="200px">
-</span> -->
+</span>
 
 ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a>
 
@@ -148,7 +145,7 @@
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img height="180px" src="https://github-readme-stats.vercel.app/api/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/Srugs90R2wYS0zvvKt/giphy.gif?cid=ecf05e47h9mnw7m0j4qjy2rrzpmt3dxxoqqebb00megzm8gi&rid=giphy.gif" width="300px">
+  <img src="https://media3.giphy.com/media/Srugs90R2wYS0zvvKt/giphy.gif?cid=ecf05e47h9mnw7m0j4qjy2rrzpmt3dxxoqqebb00megzm8gi&rid=giphy.gif" width="250px">
 </p>
 
 <!--
