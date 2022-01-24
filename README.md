@@ -20,9 +20,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <p><span style="font-size:100px"> Also check out my website : <span><a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
-
     ### Languages and Tools:
-    
    </div>
 </div>
 <table>
