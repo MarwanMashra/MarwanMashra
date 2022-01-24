@@ -19,10 +19,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-
-  <img style="" src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="200px">
-
-<br/>
+<img align="right" style="" src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="200px">
 
 ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a>
 
