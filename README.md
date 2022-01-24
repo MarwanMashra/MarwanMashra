@@ -2,8 +2,28 @@
 
 
 <div>
-  <div align="right">hi1</div>
-  <div align="left">gi2</div>
+  <div align="right">
+    <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="200px">
+  </div>
+  <div align="left">
+    <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
+      <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a style="margin-left:20px"  href="https://www.facebook.com/marwan.mushara">
+      <img alt="Anurag's Discord" width="25px" src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a style="margin-left:20px" href="https://www.instagram.com/marwanmushara/">
+      <img alt="Anurag's Discord" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+    <a style="margin-left:20px" href="https://discordapp.com/users/493446091811979267">
+      <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
 </div>
 
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
