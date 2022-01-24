@@ -19,7 +19,7 @@
       <img style="vertical-align: bottom" alt="Anurag's Discord" width="30px" src="https://i.ibb.co/ZTSn1Mf/Discord-Logo-sans-texte-svg.png" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <p><span style="font-size:100px"> Also check out my website : </span><a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
+    <p> <font size="100"> Also check out my website : </font><a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
     ### Languages and Tools:
    </div>
 </div>
