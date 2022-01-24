@@ -2,10 +2,6 @@
 ### Welcome to my profile &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<span align="right">
-  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="100px">
-</span>
-
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
   <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -23,6 +19,11 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+
+
+<span align="right">
+  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761152bd0ff09874e2477aa5618f795b940ad5031368&rid=giphy.gif" width="100px">
+</span>
 <br/>
 
 ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a>
