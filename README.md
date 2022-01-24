@@ -140,6 +140,6 @@
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img height="180px" src="https://github-readme-stats.vercel.app/api/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p align="center">
+<p align="center" style="margin:0px" >
   <img src="https://media3.giphy.com/media/Srugs90R2wYS0zvvKt/giphy.gif?cid=ecf05e47h9mnw7m0j4qjy2rrzpmt3dxxoqqebb00megzm8gi&rid=giphy.gif" width="250px">
 </p>
