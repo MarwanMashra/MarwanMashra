@@ -21,7 +21,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     
     
-    ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a>
+    <span style="font-size:100px"> Also check out my website : <span><a href="https://mashra.fr" target="_blank">mashra.fr</a>
 
     ### Languages and Tools:
     
