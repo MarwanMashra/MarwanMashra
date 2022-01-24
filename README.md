@@ -15,7 +15,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a style="margin-left:20px" href="https://www.instagram.com/marwanmushara/">
-      <img alt="Anurag's Discord" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png"/>
+      <img alt="Anurag's Discord" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
 
