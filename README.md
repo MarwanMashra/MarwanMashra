@@ -2,6 +2,10 @@
 ### Welcome to my profile &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
+<span align="right">
+  <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="500px">
+</span>
+
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
   <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -143,9 +147,7 @@
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img height="180px" src="https://github-readme-stats.vercel.app/api/?username=MarwanMashra&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p align="center">
-  <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="500px">
-</p>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/Srugs90R2wYS0zvvKt/giphy.gif?cid=ecf05e47h9mnw7m0j4qjy2rrzpmt3dxxoqqebb00megzm8gi&rid=giphy.gif" width="500px">
 </p>
