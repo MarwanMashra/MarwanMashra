@@ -2,8 +2,8 @@
 
 
 <div>
-  <div>hi1</div>
-  <div>gi2</div>
+  <div align="right">hi1</div>
+  <div align="left">gi2</div>
 </div>
 
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
