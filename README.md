@@ -129,7 +129,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://skeptric.com/images/pandas.png" style="background-color:white" width="48" height="48" alt="pandas" />
+        <img src="https://ibb.co/5nV5zWQ" style="background-color:white" width="48" height="48" alt="pandas" />
       </a>
       <br>Pandas 
     </td>
