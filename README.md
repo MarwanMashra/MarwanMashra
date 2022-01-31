@@ -129,9 +129,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="48" height="48" alt="Thanos" />
+        <img src="https://docubase.mit.edu/wp-content/uploads/2020/07/pandas-logo-300.png" width="48" height="48" alt="pandas" />
       </a>
-      <br>Terminal 
+      <br>Pandas 
     </td>
   </tr>
 </table>
