@@ -24,67 +24,67 @@
 <table>
             <tr>
                 <td align="center" width="86">
-                    <a href="#macropower-tech">
+                    <a href="https://www.python.org/">
                         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="48" height="48" alt="Python" />
                     </a>
                     <br>Python
                 </td>
               <td align="center"  width="86">
-                <a href="#macropower-tech">
+                <a href="https://scikit-learn.org/">
                   <img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange.png" width="48" height="48" alt="Scikit-learn" />
                 </a>
                 <br>Scikit-learn
               </td>
               <td align="center"  width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.tensorflow.org/">
                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-220px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
                 </a>
                 <br>Tensorflow
               </td>
               <td align="center"  width="86">
-                <a href="#macropower-tech">
+                <a href="https://keras.io/">
                   <img src="https://camo.githubusercontent.com/c1ac3ae26b8e596bd6ec38ea0537b2cd37ef50b0281df5d409b49c777375db20/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61652f4b657261735f6c6f676f2e7376672f32343070782d4b657261735f6c6f676f2e7376672e706e67" width="48" height="48" alt="Keras" />
                 </a>
                 <br>Keras
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech" >
+                <a href="https://numpy.org/" >
                   <img src="https://pbs.twimg.com/profile_images/1286005234314162177/O31-t0pD.jpg" width="48" height="48" alt="NumPy" />
                 </a>
                 <br>NumPy
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech" >
+                <a href="https://pandas.pydata.org/" >
                   <img src="https://i.imgur.com/PzeosFS.png" style="background-color:white" width="48" height="48" alt="Pandas" />
                 </a>
                 <br>Pandas 
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://seaborn.pydata.org/">
                   <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="48" height="48" alt="seaborn" />
                 </a>
                 <br>seaborn
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://matplotlib.org/">
                   <img src="https://i.imgur.com/TwmTLdy.png" width="48" height="48" alt="Matplotlib" />
                 </a>
                 <br>Matplotlib
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://opencv.org/">
                   <img src="https://i.imgur.com/nzX2HDZ.jpg" width="48" height="48" alt="OpenCV" />
                 </a>
                 <br>OpenCV
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://jupyter.org/">
                   <img src="https://i.imgur.com/0kc8Isq.jpg" width="48" height="48" alt="Jupter" />
                 </a>
                 <br>Jupter
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.docker.com/">
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="48" height="48" alt="Docker" />
                 </a>
                 <br>Docker
@@ -92,67 +92,67 @@
             </tr>
             <tr>
             <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.cplusplus.com/">
                     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="48" height="48" alt="C++" />
                 </a>
                 <br>C++
                 </td>
                 <td align="center" width="86">
-                <a href="#macropower-tech" >
+                <a href="https://www.java.com/" >
                     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="48" height="48" alt="Java" />
                 </a>
                 <br>Java
                 </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.javascript.com/">
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" />
                 </a>
                 <br>JavaScript
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech" >
+                <a href="https://jquery.com/" >
                   <img src="https://i0.wp.com/www.place4geek.com/blog/wp-content/uploads/2010/10/jQurery-e1423237413165.gif?fit=600%2C600&ssl=1" width="48" height="48" alt="JQuery" />
                 </a>
                 <br>JQuery
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.mysql.com/">
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="MySQL" />
                 </a>
                 <br>MySQL
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech" >
+                <a href="https://flask.palletsprojects.com/en/2.0.x/" >
                   <img src="https://www.vincenthouba.com/assets/img/flask-logo.409c7035.jpg" width="48" height="48" alt="Flask" />
                 </a>
                 <br>Flask
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://git-scm.com/">
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="Git" />
                 </a>
                 <br>Git
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech" >
+                <a href="https://html.com/" >
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML" />
                 </a>
                 <br>HTML
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.w3.org/Style/CSS/Overview.en.html">
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS" />
                 </a>
                 <br>CSS
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.php.net/">
                   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="48" height="48" alt="php" />
                 </a>
                 <br>php
               </td>
               <td align="center" width="86">
-                <a href="#macropower-tech">
+                <a href="https://www.latex-project.org/">
                   <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="48" height="48" alt="LaTeX" />
                 </a>
                 <br>LaTeX
