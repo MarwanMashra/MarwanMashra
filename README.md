@@ -111,7 +111,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" width="48" height="48" alt="MySQL" />
+        <img src="https://www.google.com/search?q=Scikit-learn&sxsrf=APq-WBuqRhhjhDP4xuIVadAjxIo2sW8BOQ:1643590320008&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjtlbiJ49r1AhUuyYUKHUYeAaIQ_AUoAXoECAIQAw&biw=1396&bih=678&dpr=1.38#imgrc=5oMB6oyjFjx89M&imgdii=OQASrl3zKgBdXM" width="48" height="48" alt="MySQL" />
       </a>
       <br>Scikit-learn
     </td>
