@@ -111,9 +111,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://www.apollo-formation.com/wp-content/uploads/Unified_Modeling_Language-250x250.png" width="48" height="48" alt="MySQL" />
+        <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" width="48" height="48" alt="MySQL" />
       </a>
-      <br>UML
+      <br>Scikit-learn
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
