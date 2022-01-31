@@ -129,7 +129,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://i.ibb.co/CMFnX5j/Capture-d-cran-2022-01-31-020207.png" style="background-color:white" width="48" height="48" alt="pandas" />
+        <img src="https://i.imgur.com/PzeosFS.png" style="background-color:white" width="48" height="48" alt="pandas" />
       </a>
       <br>Pandas 
     </td>
