@@ -21,7 +21,6 @@
 
 ### Languages and Tools:
 
-
 <table>
             <tr>
                 <td align="center" width="86">
@@ -84,7 +83,6 @@
                 </a>
                 <br>Jupter
               </td>
-              
               <td align="center" width="86">
                 <a href="#macropower-tech">
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="48" height="48" alt="Docker" />
@@ -92,10 +90,6 @@
                 <br>Docker
               </td>
             </tr>
-            
-            <!-- ############################################## -->
-            
-
             <tr>
             <td align="center" width="86">
                 <a href="#macropower-tech">
@@ -103,7 +97,7 @@
                 </a>
                 <br>C++
                 </td>
-                <td align="center" width="86"> 
+                <td align="center" width="86">
                 <a href="#macropower-tech" >
                     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="48" height="48" alt="Java" />
                 </a>
@@ -115,7 +109,6 @@
                 </a>
                 <br>JavaScript
               </td>
-              
               <td align="center" width="86">
                 <a href="#macropower-tech" >
                   <img src="https://i0.wp.com/www.place4geek.com/blog/wp-content/uploads/2010/10/jQurery-e1423237413165.gif?fit=600%2C600&ssl=1" width="48" height="48" alt="JQuery" />
@@ -157,18 +150,15 @@
                   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="48" height="48" alt="php" />
                 </a>
                 <br>php
-              </td>         
+              </td>
               <td align="center" width="86">
                 <a href="#macropower-tech">
                   <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="48" height="48" alt="LaTeX" />
                 </a>
                 <br>LaTeX
               </td>
-              
-              
             </tr>
           </table>
-
 
 <br/>
 
