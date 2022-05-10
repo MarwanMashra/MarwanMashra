@@ -20,9 +20,7 @@
 ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
 
 ### Languages and Tools:
-
 <table>
-            <!-- ROW 1 -->
             <tr>
                 <td align="center" width="86">
                     <a href="https://www.python.org/">
@@ -91,7 +89,6 @@
                 <br>Docker
               </td>
             </tr>
-            <!-- ROW 2 -->
             <tr>
             <td align="center" width="86">
                 <a href="https://spark.apache.org/">
@@ -160,7 +157,6 @@
                 <br>Plotly
               </td>
             </tr>
-            <!-- ROW 3 -->
             <tr>
             <td align="center" width="86">
                 <a href="https://www.cplusplus.com/">
@@ -229,9 +225,6 @@
                 <br>LaTeX
               </td>
             </tr> 
-           
-            
-            
           </table>
 
 <br/>
