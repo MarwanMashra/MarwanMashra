@@ -22,6 +22,7 @@
 ### Languages and Tools:
 
 <table>
+            <!-- ROW 1 -->
             <tr>
                 <td align="center" width="86">
                     <a href="https://www.python.org/">
@@ -90,6 +91,76 @@
                 <br>Docker
               </td>
             </tr>
+            <!-- ROW 2 -->
+            <tr>
+            <td align="center" width="86">
+                <a href="https://spark.apache.org/">
+                    <img src="https://pbs.twimg.com/profile_images/1029806457665937408/hNHMcixV_400x400.jpg" width="48" height="48" alt="Spark" />
+                </a>
+                <br>Spark
+                </td>
+                <td align="center" width="86">
+                <a href="https://hadoop.apache.org/" >
+                    <img src="https://i.imgur.com/SIkJFnT.png" width="48" height="48" alt="Hadoop" />
+                </a>
+                <br>Hadoop
+                </td>
+              <td align="center" width="86">
+                <a href="https://spacy.io/">
+                  <img src="https://i.imgur.com/ZC7JSV7.jpeg" width="48" height="48" alt="Spacy" />
+                </a>
+                <br>Spacy
+              </td>
+              <td align="center" width="86">
+                <a href="https://pytorch.org/" >
+                  <img src="https://i.imgur.com/ntswxI6.png" width="48" height="48" alt="PyTorch" />
+                </a>
+                <br>PyTorch
+              </td>
+              <td align="center" width="86">
+                <a href="https://pillow.readthedocs.io/en/stable/">
+                  <img src="https://he-arc.github.io/livre-python/_images/pillow.png" width="48" height="48" alt="Pillow" />
+                </a>
+                <br>Pillow
+              </td>
+              <td align="center" width="86">
+                <a href="https://www.elastic.co/" >
+                  <img src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/61f816486be8cc2273e24420_elasticsearch.svg" width="48" height="48" alt="Elasticsearch" />
+                </a>
+                <br>Elasticsearch
+              </td>
+              <td align="center" width="86">
+                <a href="https://www.nltk.org/">
+                  <img src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" width="48" height="48" alt="NLTK" />
+                </a>
+                <br>NLTK
+              </td>
+              <td align="center" width="86">
+                <a href="https://huggingface.co/docs/transformers/index" >
+                  <img src="https://hf.space/static/ThomasSimonini/SnowballFight/TemplateData/logo_.png" width="48" height="48" alt="Transformers" />
+                </a>
+                <br>Transformers
+              </td>
+              <td align="center" width="86">
+                <a href="https://redis.io/">
+                  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/08/1529926.png" width="48" height="48" alt="Redis" />
+                </a>
+                <br>Redis
+              </td>
+              <td align="center" width="86">
+                <a href="https://www.mongodb.com/">
+                  <img src="https://i.imgur.com/qmq1aQN.png" width="48" height="48" alt="MongoDB" />
+                </a>
+                <br>MongoDB
+              </td>
+              <td align="center" width="86">
+                <a href="https://plotly.com/">
+                  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/wgshctk7kjdxl6omgwra" width="48" height="48" alt="Plotly" />
+                </a>
+                <br>Plotly
+              </td>
+            </tr>
+            <!-- ROW 3 -->
             <tr>
             <td align="center" width="86">
                 <a href="https://www.cplusplus.com/">
@@ -157,7 +228,10 @@
                 </a>
                 <br>LaTeX
               </td>
-            </tr>
+            </tr> 
+           
+            
+            
           </table>
 
 <br/>
