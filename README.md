@@ -77,16 +77,16 @@
                 <br>OpenCV
               </td>
               <td align="center" width="86">
-                <a href="https://jupyter.org/">
-                  <img src="https://i.imgur.com/0kc8Isq.jpg" width="48" height="48" alt="Jupter" />
-                </a>
-                <br>Jupter
-              </td>
-              <td align="center" width="86">
                 <a href="https://www.docker.com/">
                   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="48" height="48" alt="Docker" />
                 </a>
                 <br>Docker
+              </td>
+              <td align="center" width="86">
+                <a href="https://jupyter.org/">
+                  <img src="https://i.imgur.com/0kc8Isq.jpg" width="48" height="48" alt="Jupter" />
+                </a>
+                <br>Jupter
               </td>
             </tr>
             <tr>
