@@ -111,7 +111,7 @@
                 <a href="https://huggingface.co/docs/transformers/index" >
                   <img src="https://hf.space/static/ThomasSimonini/SnowballFight/TemplateData/logo_.png" width="40" height="40" alt="Transformers" />
                 </a>
-                <br>Transformers
+                <br>Transforme
               </td>
               <td align="center"  >
                 <a href="https://radimrehurek.com/gensim/">
