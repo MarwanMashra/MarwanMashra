@@ -261,6 +261,12 @@
                 </a>
                 <br>php
               </td>
+              <td align="center"  >
+                <a href="https://ocaml.org/">
+                  <img src="https://i.imgur.com/EyGR5ga.jpeg" width="46" height="46" alt="php" />
+                </a>
+                <br>OCaml
+              </td>
             </tr> 
           </table>
 
