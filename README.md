@@ -1,5 +1,5 @@
 ### Welcome to my profile &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:25px">
-![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif | width=25)
+![Hi](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=25)
 
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
   <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
