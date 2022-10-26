@@ -19,6 +19,8 @@
     
 ### Also check out my website : <a href="https://mashra.fr" target="_blank">mashra.fr</a></p>
 
+# Projects 
+
 ### Languages and Tools:
 <table>
             <tr>
