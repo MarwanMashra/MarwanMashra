@@ -36,7 +36,7 @@
               </td>
               <td align="center"   >
                 <a href="https://www.tensorflow.org/">
-                  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="46" height="46" alt="Tensorflow" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="46" height="46" alt="Tensorflow" />
                 </a>
                 <br>Tensorflow
               </td>
