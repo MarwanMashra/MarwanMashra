@@ -103,7 +103,7 @@
               </td>
               <td align="center"  >
                 <a href="https://huggingface.co/docs/transformers/index" >
-                  <img src="https://hf.space/static/ThomasSimonini/SnowballFight/TemplateData/logo_.png" width="46" height="46" alt="Transformers" />
+                  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="46" height="46" alt="Transformers" />
                 </a>
                 <br>Transformers
               </td>
