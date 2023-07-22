@@ -1,7 +1,7 @@
 ### Welcome to my profile &nbsp; 
 
 <a style="margin-left:0px"  href="https://www.linkedin.com/in/marwanmashra/">
-  <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Marwan MASHRA | LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a style="margin-left:20px"  href="https://www.facebook.com/marwan.mushara">
